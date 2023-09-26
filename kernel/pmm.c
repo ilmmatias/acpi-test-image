@@ -1,3 +1,5 @@
+/* Taken from LAI's test boot image, available at: https://github.com/managarm/lai_tools */
+
 #include <bit.h>
 #include <limine.h>
 

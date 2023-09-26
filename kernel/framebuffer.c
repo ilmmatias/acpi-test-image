@@ -1,3 +1,5 @@
+/* Taken from LAI's test boot image, available at: https://github.com/managarm/lai_tools */
+
 #include <flanterm/backends/fb.h>
 #include <limine.h>
 #include <pmm.h>
